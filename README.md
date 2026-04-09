@@ -1,16 +1,16 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=35&pause=1000&color=FF4FD8&center=true&vCenter=true&width=900&height=100&lines=ROXYY" />
+</p>
 
-<!--
-**roxycreates/roxycreates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=%5B+LOADING+PROFILE+%5D;%5B+WELCOME+TO+ROXYY'S+WORLD+%5D;%5B+PLAYER+ONE+READY+%5D;%5B+FUTURE+GAME+DEVELOPER+%5D" />
+</p>
+ Hi, I'm Roxana
 
-Here are some ideas to get you started:
+Beginner programmer • Story writer • Future game developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- From Mexico
+- Learning Python.
+- Interested in game development
+- Goal: create my own game someday
